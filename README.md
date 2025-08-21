@@ -1,2 +1,2 @@
 # currency-convertor
-This is n website for converting the currency. 
+This is a website for converting the currency. 
